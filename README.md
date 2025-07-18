@@ -1,6 +1,6 @@
-# Tracking a Sports Player
+# Tracking a Bowler in Cricket
 
-Welcome to my CE301 GitLab repository. The objective of this project is to gain insight into a bowler's action in cricket by tracking their skeleton from 2D video and using landmarks to make inferences on the attempted delivery.
+Welcome to my Git repository. The objective of this project is to gain insight into a bowler's action in cricket by tracking their skeleton from 2D video and using landmarks to make inferences on the attempted delivery. Originally concieved as part of my final year university project at the University of Essex.
 
 ## Usage
 
